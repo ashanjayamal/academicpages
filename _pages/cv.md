@@ -8,24 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Honours) in Mathematics, University of Sri Jayewardenepura,2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Teaching Assistant
+  * University of Sri Jayewardenepura (2023 June -Present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
@@ -42,7 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Seminar
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
