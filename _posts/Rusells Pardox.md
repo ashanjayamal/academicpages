@@ -1,5 +1,5 @@
 ---
-title: 'Russell's Paradox: Navigating the Labyrinth of Set Theory'
+title: 'Russells Paradox: Navigating the Labyrinth of Set Theory'
 date: 2024-09-30
 permalink: /posts/Rusells Pardox/
 tags:
